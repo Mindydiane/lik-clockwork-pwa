@@ -1,0 +1,11 @@
+{
+    "name": "My Budget",
+    "short_name": "Budget",
+    "icons": {
+        "src": "/public/icons/icon-72x72.png"
+    },
+    "theme_color": "blue",
+    "background_color": "white",
+    "start_url": "http://localhost:3001/",
+    "display": "fullscreen"
+}
