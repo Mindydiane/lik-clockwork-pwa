@@ -1,7 +1,6 @@
 const APP_PREFIX = 'Budget-';
 const VERSION = 'version_01';
 const CACHE_NAME = APP_PREFIX + VERSION;
-
 const FILES_TO_CACHE = [
     "./index.html",
     "./manifest.json",
@@ -17,7 +16,7 @@ const FILES_TO_CACHE = [
     "./icons/icon-384x384.png",
     "./icons/icon-512x512.png"
 
-]
+];
 
 self.addEventListener('install', function (e) {
     e.waitUntil(
@@ -36,7 +35,6 @@ self.addEventListener('activate', function (e) {
             });
             // add current cache name to keeplist
             cacheKeeplist.push(CACHE_NAME);
-
             return Promise.all(
                 keyList(function(key, i) {
                     if (cacheKeeplist.indexOf(key) === -1) {
@@ -49,7 +47,7 @@ self.addEventListener('activate', function (e) {
     );
 });
 
-// respond w/cache resources
+// tell service worker respond w/cache resources
 self.addEventListener('fetch', function (e) {
     console.log('fetch request : ', + e.request.url)
     e.repondWith(
