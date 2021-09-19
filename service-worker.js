@@ -36,6 +36,15 @@ self.addEventListener('activate', function (e) {
             });
             // add current cache name to keeplist
             cacheKeeplist.push(CACHE_NAME);
+
+            return Promise.all(
+                keyList(function(key, i) {
+                    if (cacheKeeplist.indexOf(key) === -1) {
+                        console.log('deleting cache ; ' + keyList[i]);
+                        return cache.delete(keyList[i]);
+                    }
+                })
+            );
         })
-    )
-})
+    );
+});
