@@ -10,3 +10,17 @@ request.onupgradeneeded = function(event) {
     //create an object store (table) called 'new_input'
     db.createObjectStore('new_ticket', { autoIncrement: true })
 };
+
+// get function set up to be sucessfully created w/object store
+request.onsuccess = function(event) {
+    db = event.target.result;
+    // ck if app is online
+    if (navigator.onLine) {
+       uploadPizza(); 
+    }
+};
+
+request.onerror = function(event) {
+    // log error here
+    console.log(event.target.errorCode);
+};
