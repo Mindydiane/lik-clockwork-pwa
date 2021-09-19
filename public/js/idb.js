@@ -16,7 +16,7 @@ request.onsuccess = function(event) {
     db = event.target.result;
     // ck if app is online
     if (navigator.onLine) {
-       uploadPizza(); 
+       uploadBudget(); 
     }
 };
 
