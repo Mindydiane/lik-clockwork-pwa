@@ -1,5 +1,5 @@
-# lik-clockwork-pwa :sparkles:
-budget tracker application :sparkles:
+# :sparkles: lik-clockwork-pwa :sparkles:
+:sparkles: budget tracker application :sparkles:
 
 ## Want to keep track of your budget but have poor internet connection? :scream: :disappointed:
 
