@@ -35,14 +35,16 @@ https://lik-clockwork.herokuapp.com/
 ## Usage
 `npm start => go to localhost:3001 `
 
-` Or Simply ` 
+ Or Simply  
 
 ` Go to the deployed application in heroku and start keeping track of your Budget! `
  [Deployed](#deployed)
 
 ## Credits
 
-` `
+### Author : Mindy Diane Garza 
+
+![image](https://user-images.githubusercontent.com/80286982/132966193-7ea60c44-beea-461a-806f-04678beb1fb8.png)
 
 ## License 
 
