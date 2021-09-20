@@ -24,17 +24,18 @@ budget tracker application
 
 https://drive.google.com/file/d/1Gq3PuywcLBDa6Fn3AWfN_0o1AfuhVLG4/view
 
-## Deployed application
+## Deployed Application
 
 https://lik-clockwork.herokuapp.com/
 
-## Installation
+## Installation 
 
-` `
+` copy code => in terminal git clone in preferred folder => cd to lik-clockwork-pwa => npm install `
 
 ## Usage
 
-` `
+` npm start or go to deployed app in heroku and start keeping track of your Budget! `
+ [Deployed Application](#deployed)
 
 ## Credits
 
