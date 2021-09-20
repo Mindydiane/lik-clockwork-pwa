@@ -6,3 +6,6 @@ node_modules/
 
 # checklist
 checklist.md
+
+# env
+.env
