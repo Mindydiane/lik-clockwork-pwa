@@ -5,7 +5,7 @@ budget tracker application
 
 ## Other budget trackers won't update if offline and that can mess up the whole budget!
 
-## No problem! This budget traker
+## No problem! This budget tracker user service workers and IndexedDB to work even when offline!
 
 ![image](https://user-images.githubusercontent.com/80286982/133946486-fdf5477f-462b-43c0-a080-468e98313c51.png)
 
