@@ -41,3 +41,5 @@ https://lik-clockwork.herokuapp.com/
 ` `
 
 ## License 
+
+Licensed under the [MIT License] (LICENSE)
