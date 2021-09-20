@@ -24,7 +24,7 @@ budget tracker application
 
 https://drive.google.com/file/d/1Gq3PuywcLBDa6Fn3AWfN_0o1AfuhVLG4/view
 
-## Deployed Application
+## Deployed 
 
 https://lik-clockwork.herokuapp.com/
 
@@ -35,7 +35,7 @@ https://lik-clockwork.herokuapp.com/
 ## Usage
 
 ` npm start or go to deployed app in heroku and start keeping track of your Budget! `
- [Deployed Application](#deployed)
+ [Deployed](#deployed)
 
 ## Credits
 
