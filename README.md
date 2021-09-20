@@ -1,11 +1,11 @@
-# lik-clockwork-pwa
-budget tracker application
+# lik-clockwork-pwa :star2:
+budget tracker application :sparkles:
 
-## Want to keep track of your budget but have poor internet connection?
+## Want to keep track of your budget but have poor internet connection? :scream: :disappointed:
 
-## Other budget trackers won't update if offline and that can mess up the whole budget!
+## Other budget trackers won't update if offline and that can mess up the whole budget! :rage: :weary:
 
-## No problem! This budget tracker uses service workers and IndexedDB to work even when offline!
+## No problem! This budget tracker uses service workers and IndexedDB to work even when offline! :hushed: :grinning:   :heartbeat: :revolving_hearts:
 
 ![image](https://user-images.githubusercontent.com/80286982/133946486-fdf5477f-462b-43c0-a080-468e98313c51.png)
 
@@ -18,9 +18,9 @@ budget tracker application
 
 ![Budget-Tracker-offline-capabilities (1)](https://user-images.githubusercontent.com/80286982/133948787-37bfaafe-9a1c-4965-ab48-0d983b5d535d.gif)
 
-## Watch video showing how it has Offline Capablity
+## Watch video showing how it has Offline Capablity :eyes:
 
-### Screencastify
+### :tada: Screencastify 
 
 https://drive.google.com/file/d/1Gq3PuywcLBDa6Fn3AWfN_0o1AfuhVLG4/view
 
@@ -34,18 +34,19 @@ https://lik-clockwork.herokuapp.com/
 
 ## Usage
 `npm start => go to localhost:3001 `
+:earth_americas:
 
  Or Simply  
 
-` Go to the deployed application in heroku and start keeping track of your Budget! `
+` Go to the deployed application in heroku and start keeping track of your Budget! ` :full_moon:
  [Deployed](#deployed)
 
 ## Credits
 
-### Author : Mindy Diane Garza 
+### :seedling: Author : Mindy Diane Garza 
 
 ![image](https://user-images.githubusercontent.com/80286982/132966193-7ea60c44-beea-461a-806f-04678beb1fb8.png)
 
 ## License 
 
-Licensed under the [MIT License](LICENSE)
+:books: Licensed under the [MIT License](LICENSE)
