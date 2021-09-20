@@ -33,8 +33,11 @@ https://lik-clockwork.herokuapp.com/
 ` copy code => in terminal git clone in preferred folder => cd to lik-clockwork-pwa => npm install `
 
 ## Usage
+`npm start => go to localhost:3001 `
 
-` npm start or go to deployed app in heroku and start keeping track of your Budget! `
+` Or Simply ` 
+
+` Go to the deployed application in heroku and start keeping track of your Budget! `
  [Deployed](#deployed)
 
 ## Credits
