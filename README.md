@@ -5,10 +5,18 @@ budget tracker application
 
 ## Other budget trackers won't update if offline and that can mess up the whole budget!
 
-## No problem! This budget tracker user service workers and IndexedDB to work even when offline!
+## No problem! This budget tracker uses service workers and IndexedDB to work even when offline!
 
 ![image](https://user-images.githubusercontent.com/80286982/133946486-fdf5477f-462b-43c0-a080-468e98313c51.png)
 
+## Table of Contents :fallen_leaf:
+
+* [Installation](#installation)   
+* [Usage](#usage)    
+* [Credits](#credits)    
+* [License](#license)    
+
+![Budget-Tracker-offline-capabilities (1)](https://user-images.githubusercontent.com/80286982/133948787-37bfaafe-9a1c-4965-ab48-0d983b5d535d.gif)
 
 ## Watch video showing how it has Offline Capablity
 
@@ -19,3 +27,13 @@ https://drive.google.com/file/d/1Gq3PuywcLBDa6Fn3AWfN_0o1AfuhVLG4/view
 ## Deployed application
 
 https://lik-clockwork.herokuapp.com/
+
+## Installation
+
+` `
+
+## Usage
+
+## Credits
+
+## License 
