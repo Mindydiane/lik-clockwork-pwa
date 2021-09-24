@@ -1,11 +1,11 @@
 # :sparkles: lik-clockwork-pwa :sparkles:
 :sparkles: budget tracker application :sparkles:
 
-## Want to keep track of your budget but have poor internet connection? :scream: :disappointed:
+## Want to keep track of your budget but have poor internet connection? :disappointed:
 
-## Other budget trackers won't update if offline and that can mess up the whole budget! :rage: :weary:
+## Other budget trackers won't update if offline and that can mess up the whole budget!  :weary:
 
-## No problem! This budget tracker uses service workers and IndexedDB to work even when offline! :hushed: :grinning:   :heartbeat: :revolving_hearts:
+## No problem! This budget tracker uses service workers and IndexedDB to work even when offline! :revolving_hearts:
 
 ![image](https://user-images.githubusercontent.com/80286982/133946486-fdf5477f-462b-43c0-a080-468e98313c51.png)
 
@@ -20,7 +20,7 @@
 
 ## Watch video showing how it has Offline Capablity :eyes:
 
-### :tada: Screencastify 
+### Screencastify 
 
 https://drive.google.com/file/d/1Gq3PuywcLBDa6Fn3AWfN_0o1AfuhVLG4/view
 
